@@ -1,0 +1,75 @@
+[(0, -> au with incest relationship
+  '0.064*"word" + 0.045*"drabbles" + 0.037*"three" + 0.035*"relationship" + '
+  '0.024*"nightmare" + 0.022*"wincest" + 0.022*"spoiler" + 0.013*"hope" + '
+  '0.013*"less" + 0.013*"soft"'),
+ (1, 
+  '0.024*"get" + 0.019*"one" + 0.014*"ghost" + 0.013*"table" + 0.013*"fire" + '
+  '0.011*"time" + 0.010*"high" + 0.010*"save" + 0.010*"year" + 0.009*"demon"'),
+ (2,
+  '0.025*"thing" + 0.023*"time" + 0.022*"much" + 0.017*"brother" + '
+  '0.016*"first" + 0.016*"fun" + 0.016*"get" + 0.014*"kill" + 0.013*"little" + '
+  '0.013*"really"'),
+ (3,
+  '0.039*"write" + 0.034*"challenge" + 0.019*"supernatural" + 0.015*"party" + '
+  '0.014*"question" + 0.014*"season" + 0.013*"road" + 0.012*"ask" + '
+  '0.012*"birthday" + 0.011*"expect"'),
+ (4, 
+  '0.046*"john" + 0.028*"love" + 0.024*"boy" + 0.016*"take" + 0.016*"mary" + '
+  '0.012*"episode" + 0.011*"family" + 0.010*"place" + 0.010*"preseries" + '
+  '0.009*"world"'),
+ (5, 
+  '0.032*"get" + 0.024*"lose" + 0.018*"every" + 0.012*"news" + 0.011*"know" + '
+  '0.011*"away" + 0.011*"look" + 0.011*"ever" + 0.011*"everything" + '
+  '0.010*"use"'),
+ (6,
+  '0.033*"way" + 0.021*"find" + 0.020*"one" + 0.017*"hunt" + 0.015*"help" + '
+  '0.015*"room" + 0.015*"get" + 0.014*"dad" + 0.014*"bear" + 0.014*"thing"'),
+ (7, 
+  '0.037*"come" + 0.020*"season" + 0.018*"set" + 0.017*"case" + 0.017*"get" + '
+  '0.014*"early" + 0.012*"one" + 0.012*"new" + 0.011*"want" + 0.010*"dead"'),
+ (8, 
+  '0.024*"go" + 0.015*"school" + 0.015*"episode" + 0.014*"get" + 0.013*"coda" '
+  '+ 0.011*"really" + 0.011*"sort" + 0.011*"time" + 0.011*"john" + '
+  '0.009*"write"'),
+ (9,
+  '0.023*"never" + 0.020*"come" + 0.015*"face" + 0.014*"find" + 0.014*"dream" '
+  '+ 0.013*"think" + 0.013*"back" + 0.013*"say" + 0.013*"john" + '
+  '0.012*"thing"'),
+ (10,
+  '0.025*"bad" + 0.022*"impala" + 0.020*"little" + 0.019*"get" + 0.017*"go" + '
+  '0.014*"meet" + 0.013*"window" + 0.013*"take" + 0.013*"smut" + '
+  '0.012*"death"'),
+ (11,
+  '0.057*"series" + 0.024*"five" + 0.021*"defining" + 0.021*"end" + '
+  '0.017*"spoiler" + 0.014*"devil" + 0.013*"trap" + 0.011*"story" + '
+  '0.011*"trust" + 0.010*"samdean"'),
+ (12,
+  '0.035*"like" + 0.015*"look" + 0.014*"boy" + 0.014*"never" + 0.014*"time" + '
+  '0.013*"first" + 0.013*"kiss" + 0.012*"know" + 0.012*"thing" + '
+  '0.011*"would"'),
+ (13, 
+  '0.022*"sex" + 0.019*"old" + 0.016*"way" + 0.015*"year" + 0.015*"one" + '
+  '0.014*"deal" + 0.014*"lead" + 0.013*"person" + 0.013*"angst" + '
+  '0.013*"comfort"'),
+ (14, 
+  '0.026*"know" + 0.019*"one" + 0.016*"hell" + 0.015*"say" + 0.014*"man" + '
+  '0.013*"go" + 0.013*"life" + 0.012*"story" + 0.012*"big" + 0.011*"blood"'),
+ (15,
+  '0.018*"hunter" + 0.015*"hand" + 0.015*"sequel" + 0.013*"brother" + '
+  '0.012*"friend" + 0.012*"become" + 0.011*"world" + 0.011*"run" + 0.011*"sex" '
+  '+ 0.011*"call"'),
+ (16,
+  '0.020*"think" + 0.016*"time" + 0.014*"piece" + 0.014*"first" + '
+  '0.013*"thing" + 0.012*"like" + 0.011*"leave" + 0.010*"companion" + '
+  '0.010*"third" + 0.010*"around"'),
+ (17,
+  '0.024*"something" + 0.017*"brother" + 0.016*"change" + 0.015*"secret" + '
+  '0.015*"like" + 0.015*"life" + 0.014*"thing" + 0.014*"little" + '
+  '0.012*"wrong" + 0.011*"need"'),
+ (18, 
+  '0.024*"keep" + 0.024*"get" + 0.021*"give" + 0.021*"need" + 0.017*"want" + '
+  '0.015*"sometimes" + 0.014*"trust" + 0.014*"series" + 0.013*"push" + '
+  '0.012*"real"'),
+ (19,
+  '0.014*"make" + 0.014*"year" + 0.013*"time" + 0.013*"day" + 0.012*"go" + '
+  '0.011*"one" + 0.011*"get" + 0.011*"watch" + 0.010*"would" + 0.009*"way"')]
