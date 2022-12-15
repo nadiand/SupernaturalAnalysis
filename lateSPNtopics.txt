@@ -1,0 +1,75 @@
+[(0,
+  '0.018*"dream" + 0.013*"take" + 0.012*"season" + 0.011*"episode" + '
+  '0.009*"like" + 0.008*"set" + 0.008*"place" + 0.008*"spoiler" + '
+  '0.007*"little" + 0.006*"promise"'),
+ (1,
+  '0.019*"like" + 0.014*"get" + 0.013*"charlie" + 0.010*"never" + 0.009*"know" '
+  '+ 0.009*"want" + 0.009*"love" + 0.009*"work" + 0.009*"one" + 0.009*"life"'),
+ (2,
+  '0.012*"get" + 0.012*"like" + 0.012*"really" + 0.011*"thing" + 0.010*"guy" + '
+  '0.010*"benny" + 0.009*"gabriel" + 0.009*"shop" + 0.007*"sorry" + '
+  '0.007*"cute"'),
+ (3,
+  '0.028*"love" + 0.016*"go" + 0.014*"one" + 0.012*"pov" + 0.011*"life" + '
+  '0.010*"know" + 0.008*"curse" + 0.008*"give" + 0.007*"thing" + '
+  '0.007*"little"'),
+ (4, 
+  '0.010*"relationship" + 0.010*"bingo" + 0.010*"partner" + 0.009*"sabriel" + '
+  '0.008*"spn" + 0.008*"e" + 0.008*"fill" + 0.007*"au" + 0.006*"might" + '
+  '0.006*"final"'),
+ (5, 
+  '0.021*"hell" + 0.017*"get" + 0.017*"demon" + 0.017*"go" + 0.014*"angel" + '
+  '0.014*"crowley" + 0.011*"make" + 0.011*"thing" + 0.008*"leave" + '
+  '0.007*"try"'),
+ (6,
+  '0.014*"know" + 0.014*"get" + 0.011*"love" + 0.011*"always" + 0.011*"life" + '
+  '0.010*"want" + 0.010*"thing" + 0.010*"time" + 0.009*"brother" + '
+  '0.009*"would"'),
+ (7,
+  '0.043*"write" + 0.028*"story" + 0.023*"day" + 0.017*"read" + 0.016*"fic" + '
+  '0.015*"supernatural" + 0.014*"short" + 0.014*"challenge" + 0.010*"season" + '
+  '0.010*"series"'),
+ (8, 
+  '0.033*"time" + 0.018*"lucifer" + 0.015*"one" + 0.010*"gabriel" + '
+  '0.009*"make" + 0.009*"first" + 0.008*"feel" + 0.008*"want" + 0.008*"human" '
+  '+ 0.007*"pain"'),
+ (9, 
+  '0.014*"tell" + 0.014*"one" + 0.013*"love" + 0.011*"girl" + 0.009*"time" + '
+  '0.009*"want" + 0.008*"get" + 0.007*"story" + 0.007*"jack" + 0.007*"make"'),
+ (10, 
+  '0.031*"get" + 0.031*"go" + 0.018*"take" + 0.015*"brother" + 0.012*"find" + '
+  '0.011*"plan" + 0.011*"finally" + 0.009*"make" + 0.009*"thing" + '
+  '0.009*"hunt"'),
+ (11, 
+  '0.021*"find" + 0.017*"life" + 0.014*"one" + 0.012*"world" + 0.012*"hunt" + '
+  '0.011*"go" + 0.010*"save" + 0.010*"get" + 0.009*"season" + 0.009*"new"'),
+ (12, 
+  '0.021*"john" + 0.018*"old" + 0.014*"year" + 0.012*"bobby" + 0.012*"mary" + '
+  '0.009*"two" + 0.009*"one" + 0.008*"brother" + 0.008*"father" + '
+  '0.008*"lucifer"'),
+ (13, 
+  '0.019*"one" + 0.014*"would" + 0.010*"go" + 0.010*"letter" + 0.010*"know" + '
+  '0.010*"write" + 0.008*"call" + 0.008*"person" + 0.008*"thing" + '
+  '0.008*"something"'),
+ (14,
+  '0.017*"back" + 0.015*"go" + 0.015*"get" + 0.012*"night" + 0.011*"look" + '
+  '0.011*"room" + 0.010*"know" + 0.010*"say" + 0.009*"could" + 0.008*"think"'),
+ (15,
+  '0.012*"hand" + 0.011*"could" + 0.010*"like" + 0.009*"think" + 0.009*"take" '
+  '+ 0.008*"eye" + 0.007*"jensen" + 0.006*"one" + 0.006*"roll" + 0.006*"head"'),
+ (16, 
+  '0.016*"time" + 0.011*"day" + 0.009*"one" + 0.008*"meet" + 0.008*"soulmate" '
+  '+ 0.008*"see" + 0.008*"seem" + 0.007*"spend" + 0.006*"balthazar" + '
+  '0.006*"go"'),
+ (17, 
+  '0.045*"reader" + 0.019*"something" + 0.018*"birthday" + 0.013*"request" + '
+  '0.011*"want" + 0.010*"little" + 0.010*"fluff" + 0.009*"find" + 0.009*"make" '
+  '+ 0.009*"come"'),
+ (18,
+  '0.035*"christmas" + 0.023*"song" + 0.009*"love" + 0.009*"take" + '
+  '0.008*"ficlet" + 0.007*"gadreel" + 0.006*"many" + 0.006*"boy" + '
+  '0.006*"alright" + 0.006*"music"'),
+ (19, 
+  '0.025*"school" + 0.017*"high" + 0.012*"get" + 0.009*"appreciate" + '
+  '0.009*"hope" + 0.009*"year" + 0.008*"author" + 0.008*"friend" + '
+  '0.008*"fluffy" + 0.007*"enjoy"')]
