@@ -8,18 +8,24 @@ def scraping(start):
 
     f = open("spn_data.txt", "a", encoding="utf-8")
 
-    while search.page <= 50: # Limiting the number of scraped fics in order to not get kicked out of the website
+    while search.page <= 50:
         search.update()
         for w in search.results:
-          
-            work = "%s\t%s\t%s\t" % (w.title, str(w.date_updated), w.language)
+            try: 
+                kudos = w.kudos
+            except:
+                kudos = 0
+            try: 
+                hits = w.hits
+            except:
+                hits = 0
+            work = "%s\t%d\t%d\t%s\t%s\t" % (w.title, hits, kudos, str(w.date_updated), w.language)
             if not w.tags is None:
                 work += "%s\t" % '; '.join(w.tags)
             if not w.characters is None:
                 work += "%s\t" % '; '.join(w.characters)
             if not w.relationships is None:
                 work += "%s\t" % '; '.join(w.relationships)
-                
             try:
                 if not w.summary is None:
                     work += "%s\t" % w.summary
@@ -28,7 +34,6 @@ def scraping(start):
             except:
                 work += "N/A\t"
 
-            # We scraped the comments as well, but those were not used in the analysis
             fic = AO3.Work(w.id)
             fic.load_chapters()
             comments = fic.get_comments(100)
